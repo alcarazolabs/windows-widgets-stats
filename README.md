@@ -8,7 +8,7 @@ Los widgets se inician y se detienen con un botón desde un panel de control, y 
 <img src="preview.png">
 
 * v.1.0.1 Preview: 
-<img src="preview-v-0.0.1.png">
+<img src="preview-v.1.0.1.png">
 ---
 
 ## 🎯 ¿Para qué sirve?
