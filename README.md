@@ -56,8 +56,9 @@ Es útil para gamers, desarrolladores, creadores de contenido o cualquier person
 
 ## ▶️ Descarga y Ejecución
 
-<a target="_blank" href="https://www.mediafire.com/file/jmqzg9pazzs6qmy/widgets-w10-11-v1.0.0.exe/file"> Descargar v.1.0.0 </a>
-<a target="_blank" href="https://www.mediafire.com/file/f29t72sielzxgje/widgets-w10-11-v1.0.1.exe/file"> Descargar v.1.0.1 </a>
+* <a target="_blank" href="https://www.mediafire.com/file/jmqzg9pazzs6qmy/widgets-w10-11-v1.0.0.exe/file"> Descargar v.1.0.0 </a>
+
+* <a target="_blank" href="https://www.mediafire.com/file/f29t72sielzxgje/widgets-w10-11-v1.0.1.exe/file"> Descargar v.1.0.1 </a>
 
 Descarga el ejecutable y solo dale doble click y se apertura la ventana para iniciar los widgets:
 
